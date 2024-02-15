@@ -1,4 +1,19 @@
 * {
   margin: 0;
   padding: 0;
+  /* background-color: red; */
+}
+.logo img {
+  height: 1.75vw;
+  width: 1.75vw;
+  margin-right: 10px;
+}
+nav {
+  height: 4.5vw;
+  width: 100vw;
+  background-color:black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
 }
