@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  /* background-color: red; */
 }
 .logo img {
   height: 1.75vw;
@@ -16,4 +15,12 @@ nav {
   justify-content: center;
   align-items: center;
   color: white;
+  font-size: 2vw;
+}
+.container{
+    background-color: red;
+    width: 60vw;
+    height: 10vw;
+    margin:  auto;
+    margin-top: 2vw;
 }
