@@ -35,3 +35,8 @@ li {
   border: 1px solid white !important;
   padding: 5px 14px !important;
 }
+code{
+  font-size: 0.25vw;
+  font-family: "Marcellus", serif;
+  
+}
