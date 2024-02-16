@@ -10,22 +10,28 @@
 nav {
   height: 4.5vw;
   width: 100vw;
-  background-color:black;
+  background-color: black;
   display: flex;
   justify-content: center;
   align-items: center;
   color: white;
   font-size: 2vw;
 }
-.container{
-    width: 60vw;
-    height: 10vw;
-    margin:  auto;
-    padding: 2vw;
+.container {
+  width: 60vw;
+  height: 10vw;
+  margin: auto;
+  padding: 2vw;
 }
-li{
-    font-size: 2vw;
-    font-family: "Marcellus", serif;
-    color: rgba(25, 22, 22, 0.818);
+li {
+  font-size: 2vw;
+  font-family: "Marcellus", serif;
+  color: rgba(25, 22, 22, 0.818);
+}
 
+.toolbar-item button {
+  cursor: pointer !important;
+  color: white !important;
+  border: 1px solid white !important;
+  padding: 5px 14px !important;
 }
