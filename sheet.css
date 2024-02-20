@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -22,6 +24,26 @@ nav {
   height: 10vw;
   margin: auto;
   padding: 2vw;
+  display: flex;
+  flex-direction: column;
+}
+.second{
+  text-align: center;
+  background-color:#272822;
+  height:10vw;
+  padding: 1.5vw;
+  border-radius: 0.75vw 0.75vw 0vw 0vw;
+}
+.second a{
+  font-family: "Montserrat", sans-serif;
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 2vw;
+  transition: all 0.3s ease-in-out;
+
+}
+.second a:hover{
+  color: red;
 }
 li {
   font-size: 2vw;
