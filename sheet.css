@@ -34,6 +34,9 @@ nav {
   padding: 1.5vw;
   border-radius: 0.75vw 0.75vw 0vw 0vw;
 }
+.second a span{
+  color:red;
+}
 .second a{
   font-family: "Montserrat", sans-serif;
   color: whitesmoke;
